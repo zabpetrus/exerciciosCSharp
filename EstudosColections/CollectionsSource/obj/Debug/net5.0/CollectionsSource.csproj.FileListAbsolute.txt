@@ -1,0 +1,12 @@
+D:\vstudio_projects\EstudosColections\CollectionsSource\bin\Debug\net5.0\CollectionsSource.deps.json
+D:\vstudio_projects\EstudosColections\CollectionsSource\bin\Debug\net5.0\CollectionsSource.dll
+D:\vstudio_projects\EstudosColections\CollectionsSource\bin\Debug\net5.0\CollectionsSource.pdb
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.csproj.AssemblyReference.cache
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.AssemblyInfoInputs.cache
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.AssemblyInfo.cs
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.dll
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\refint\CollectionsSource.dll
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\CollectionsSource.pdb
+D:\vstudio_projects\EstudosColections\CollectionsSource\obj\Debug\net5.0\ref\CollectionsSource.dll

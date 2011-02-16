@@ -7,7 +7,8 @@ namespace ValidacaoMetodos
     {
         static void Main(string[] args)
         {
-            PrincipalValidaCpf.buildIn();
+            PrincipalValidaNome.buildIn();
+            //PrincipalValidaCpf.buildIn();
         }
     }
 }
