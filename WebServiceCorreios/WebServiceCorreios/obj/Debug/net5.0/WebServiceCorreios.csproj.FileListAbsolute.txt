@@ -1,0 +1,62 @@
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.exe
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.AssemblyInfoInputs.cache
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.AssemblyInfo.cs
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.csproj.CoreCompileInputs.cache
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.csproj.CopyComplete
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\ref\WebServiceCorreios.dll
+C:\Users\Izabel Santos\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.pdb
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.exe
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.deps.json
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.runtimeconfig.json
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.runtimeconfig.dev.json
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\ref\WebServiceCorreios.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\WebServiceCorreios.pdb
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.csproj.AssemblyReference.cache
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.AssemblyInfoInputs.cache
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.AssemblyInfo.cs
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.csproj.CopyComplete
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\ref\WebServiceCorreios.dll
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.pdb
+D:\vstudio_projects\WebServiceCorreios\WebServiceCorreios\obj\Debug\net5.0\WebServiceCorreios.genruntimeconfig.cache
