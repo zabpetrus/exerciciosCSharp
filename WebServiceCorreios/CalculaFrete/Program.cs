@@ -3,8 +3,7 @@
 namespace CalculaFrete
 {
     //Não sei qual dos dois irá vingar
-    using ServiceReference1;
-    using ServiceReference2;
+
 
     class Program
     {
@@ -15,10 +14,9 @@ namespace CalculaFrete
 
         private static void consultaFrete()
         {
-            using (var tp =  new AtendeClienteClient())
-            {
+           
 
-            }
+
         }
 
     }
