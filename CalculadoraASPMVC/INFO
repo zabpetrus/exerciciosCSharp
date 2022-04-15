@@ -1,0 +1,10 @@
+- Esse projeto foi criado segundo o padrão arquitetural MVC
+
+Temos três pastas principais:
+
+Model - Onde temos a lógica de negocios do projeto( basicamente onde ficam as classes )
+Controller - É a parte que intermedia a view( a parte do html, css, etc) e o modelo;
+View - É a parte que se comunica com o usuário, ou seja, a interface web
+
+Podemos aplicar o pattern MVC diretamente em uma api já existente ou construí-la diretamente do zero.
+
