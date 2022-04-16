@@ -1,0 +1,5 @@
+Projeto ASPNET MVC Core C#
+
+Caulculadora que recebe os argumentos via url (get) - Experimental
+
+Com operações de adição, multiplicação, subtração e divisão somente

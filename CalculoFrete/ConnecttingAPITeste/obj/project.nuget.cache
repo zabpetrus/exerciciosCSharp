@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJhkDbmwBOo/VFrvhmg09bNKN64wdSQL18OowhjN86RcDN9v3tVD8i62CbMazIMCLXd3HTyN+pP3crVzkLW0ng==",
+  "dgSpecHash": "da4WeigCI1dethqGR6skQLJFWcq7EInlI58rU2MvMH1w126G6zFfv8TDp4gNcLMKk5hKXzczd2bJBFz9hSOkCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
+  "projectFilePath": "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

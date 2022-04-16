@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NgkVUD2oziIzDAjLyZgxhqK1Ak/dKNHWj6FgQe0DwwaBLrraWzoX0k8DSdFsCwm16rpJrFIhAkBdUjfcDdeqTA==",
+  "dgSpecHash": "3oxcBbC6R5aN2ALew8yHoxC2bVjEakn5OhOTIsL0CSLH2jAGapIQBTe9zDF88kkiCnncoU9QBF8W5chjgu0K+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
+  "projectFilePath": "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\grpc.aspnetcore\\2.32.0\\grpc.aspnetcore.2.32.0.nupkg.sha512",

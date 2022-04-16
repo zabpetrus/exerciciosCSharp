@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj": {}
+    "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj": {
+    "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
+        "projectUniqueName": "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
         "projectName": "ConecttingAPI",
-        "projectPath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
+        "projectPath": "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj",
         "packagesPath": "C:\\Users\\Izabel Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\obj\\",
+        "outputPath": "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj": {
+    "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
+        "projectUniqueName": "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
         "projectName": "ConnecttingAPITeste",
-        "projectPath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
+        "projectPath": "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\ConnecttingAPITeste.csproj",
         "packagesPath": "C:\\Users\\Izabel Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConnecttingAPITeste\\obj\\",
+        "outputPath": "D:\\vstudio_projects\\CalculoFrete\\ConnecttingAPITeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -141,8 +141,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj": {
-                "projectPath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj"
+              "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj": {
+                "projectPath": "D:\\vstudio_projects\\CalculoFrete\\ConecttingAPI\\ConecttingAPI.csproj"
               }
             }
           }

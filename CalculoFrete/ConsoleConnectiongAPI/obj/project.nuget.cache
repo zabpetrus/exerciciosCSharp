@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1llsHfnu14a/EcVUBN4qs5ymyspKMBFifzF4W2KcO4FsurXpouCnBB2AHd7zqgZTp6zqBOq//Fpv2YSyphP8wQ==",
+  "dgSpecHash": "C2SG0jQsZOCT/4ZN44Y0L48NgcLgM2bx61B5WC3blJLO/8hxduu2NO+Bg1exRPUk4EykkTJY3vtKEdIamwcstg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Izabel Santos\\source\\repos\\CalculoFrete\\ConsoleConnectiongAPI\\ConsoleConnectiongAPI.csproj",
+  "projectFilePath": "D:\\vstudio_projects\\CalculoFrete\\ConsoleConnectiongAPI\\ConsoleConnectiongAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
     "C:\\Users\\Izabel Santos\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
