@@ -1,0 +1,16 @@
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.csproj.AssemblyReference.cache
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.AssemblyInfoInputs.cache
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.AssemblyInfo.cs
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.exe
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.deps.json
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.runtimeconfig.json
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.runtimeconfig.dev.json
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.dll
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\bin\Debug\net5.0\ValidacaoMetodos.pdb
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.dll
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\refint\ValidacaoMetodos.dll
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.pdb
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ValidacaoMetodos.genruntimeconfig.cache
+D:\vstudio_projects\ValidationMethods\ValidacaoMetodos\obj\Debug\net5.0\ref\ValidacaoMetodos.dll
