@@ -12,12 +12,12 @@ namespace ValidacaoMetodos.Validation
     {
         public bool validarCaracteresNome(string nome)
         {
-            return Regex.IsMatch(nome, @"^[a-zA-Z]+$");         
+            return Regex.IsMatch(nome, @"[\p{L} ]+$");         
         }
 
         public bool validarTamanhoNome(string nome)
         {
-            return (nome == null || nome.Length < 5);
+            return (nome == null || nome.Length > 5);
         }
     }
 }
