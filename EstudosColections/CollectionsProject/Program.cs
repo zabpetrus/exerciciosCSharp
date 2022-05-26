@@ -9,8 +9,7 @@ namespace CollectionsProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            DioArrays.declaraMatriz();
-
+            Etapa4.CriarPercorrerArray();
         }
     }
 }
