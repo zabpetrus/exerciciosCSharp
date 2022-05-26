@@ -15,7 +15,27 @@ namespace CollectionsSource
             var elemento = arrya2[0]; //posicao até n-1
 
             //modificando o valor 
-            arrya2[0] = 45;
+            //arrya2[0] = 45;
+        }
+
+
+        public static void declaraMatriz()
+        {
+            int[,] array = new int[4, 5]; //numero de linhas:4 .:. numero de colunas:5
+            for(int i = 0; i < 4; i++)
+            {
+                for(int j = 0; j < 5; j++)
+                {
+                    Console.Write(" | ");
+                    array[i, j] = 1 + ((i + j) ^ 2);
+                    Console.Write(array[i, j]);
+                    
+                }
+                Console.Write(" | ");
+                Console.WriteLine();
+            }
+            int p = array[1, 1];
+            Console.WriteLine("Valor [1,1]: " + p); 
         }
     }
 }

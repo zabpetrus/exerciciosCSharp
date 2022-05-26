@@ -9,7 +9,7 @@ namespace CollectionsProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            DioArrays.declaraArrays();
+            DioArrays.declaraMatriz();
 
         }
     }
