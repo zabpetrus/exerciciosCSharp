@@ -13,9 +13,9 @@ namespace CollectionsSource
 
             //Disposição do array -> Indices
             var elemento = arrya2[0]; //posicao até n-1
-
             //modificando o valor 
-            //arrya2[0] = 45;
+
+            arrya2[0] = 45;
         }
 
 

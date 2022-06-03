@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bzePD7UTH4JcXn/kybkzj/JWGtF5DPjo/h/CGsvRmnr0LbSu6nRdV3UJZ+kObfMXqH8EOLaXLHJK4sd915Blg==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\AppConsoleJson\\AppConsoleJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
