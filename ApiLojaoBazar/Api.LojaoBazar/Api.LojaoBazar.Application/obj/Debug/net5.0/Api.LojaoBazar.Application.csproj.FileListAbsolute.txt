@@ -1,0 +1,15 @@
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\bin\Debug\net5.0\Api.LojaoBazar.Application.deps.json
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\bin\Debug\net5.0\Api.LojaoBazar.Application.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\bin\Debug\net5.0\Api.LojaoBazar.Application.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.csproj.AssemblyReference.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.AssemblyInfoInputs.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.AssemblyInfo.cs
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\refint\Api.LojaoBazar.Application.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\ref\Api.LojaoBazar.Application.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\bin\Debug\net5.0\Api.LojaoBazar.Domain.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\bin\Debug\net5.0\Api.LojaoBazar.Domain.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Application\obj\Debug\net5.0\Api.LojaoBazar.Application.csproj.CopyComplete

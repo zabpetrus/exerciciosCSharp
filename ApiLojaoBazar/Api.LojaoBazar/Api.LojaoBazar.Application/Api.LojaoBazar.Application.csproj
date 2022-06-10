@@ -5,9 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="AppService\" />
-    <Folder Include="ViewModel\" />
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.LojaoBazar.Domain\Api.LojaoBazar.Domain.csproj" />
   </ItemGroup>
 
 </Project>

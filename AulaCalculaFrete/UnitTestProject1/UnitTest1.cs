@@ -26,6 +26,24 @@ namespace UnitTestProject1
 
         }
 
+        [TestMethod]
+        public void testeICorreioService()
+        {
+            //Arrange
+            Mock<ICorreioService> mock = new Mock<ICorreioService>();
+            mock.Setup(m => m.CalculaFrete()).Returns(7.52);
+
+            Frete frete = new Frete(mock.Object)
+            {
+                cep = 21857010,
+                peso = 5
+            };
+
+            double resultado = frete.CalculaFrete();
+            Assert.AreEqual(7.52, resultado);
+
+        }
+
 
 
     }

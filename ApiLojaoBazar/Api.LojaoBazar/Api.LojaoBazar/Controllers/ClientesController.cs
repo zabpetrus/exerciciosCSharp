@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Api.LojaoBazar.Application.AppService;
+using Api.LojaoBazar.Application.ViewModel;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -8,7 +10,8 @@ namespace Api.LojaoBazar.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class ClientesController : ControllerBase
-    {
+    {               
+
         // GET: api/<ClientesController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -20,13 +23,17 @@ namespace Api.LojaoBazar.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            ClienteAppService clienteAppService = new ClienteAppService();
+            return clienteAppService.Get(id).ToString();            
         }
 
         // POST api/<ClientesController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] ClienteCreateViewModel clienteCreateViewModel)
         {
+            ClienteAppService clienteAppService = new ClienteAppService();
+            clienteAppService.Create(clienteCreateViewModel);
+          
         }
 
         // PUT api/<ClientesController>/5

@@ -43,6 +43,40 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

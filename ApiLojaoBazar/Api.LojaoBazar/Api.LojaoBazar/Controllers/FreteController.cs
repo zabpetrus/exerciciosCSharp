@@ -27,6 +27,7 @@ namespace Api.LojaoBazar.Controllers
         [HttpPost]
         public void Post([FromBody] string value)
         {
+
         }
 
         // PUT api/<FreteController>/5

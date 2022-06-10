@@ -26,3 +26,12 @@ D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\obj\Debug\net5.0
 D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\obj\Debug\net5.0\Api.LojaoBazar.pdb
 D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\obj\Debug\net5.0\Api.LojaoBazar.genruntimeconfig.cache
 D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\obj\Debug\net5.0\ref\Api.LojaoBazar.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\AutoMapper.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Api.LojaoBazar.Application.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Api.LojaoBazar.Domain.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Api.LojaoBazar.Application.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Api.LojaoBazar.Domain.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

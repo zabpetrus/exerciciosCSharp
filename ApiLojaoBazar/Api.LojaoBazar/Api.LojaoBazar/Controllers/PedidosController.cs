@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Api.LojaoBazar.Application.AppService;
+using Api.LojaoBazar.Application.ViewModel;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -20,13 +22,19 @@ namespace Api.LojaoBazar.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            //Retorna um pedido especifico
+            PedidoAppService pedidoAppService = new PedidoAppService();
+            PedidoResultViewModel pedidoResultViewModel  = pedidoAppService.GetById(id);
+           return pedidoResultViewModel.ToString();
         }
 
         // POST api/<PedidosController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] PedidoCreateViewModel pedidoCreateViewModel)
         {
+            //Criação de um novo pedido
+            PedidoAppService pedidoAppService = new PedidoAppService();
+            pedidoAppService.Create(pedidoCreateViewModel);           
         }
 
         // PUT api/<PedidosController>/5

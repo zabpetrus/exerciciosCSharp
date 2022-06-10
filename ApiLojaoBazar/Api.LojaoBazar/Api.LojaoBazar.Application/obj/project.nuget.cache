@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MZ5IKP+a0YKLPz+EghllGyfnE62Y62tsRe7NwcYPYkDEYFYToORM63M2LIqIqbwFsA3xCJ4YI6MrXi/+Cg4rUA==",
+  "dgSpecHash": "v4yI+5FmnaQHDykhrISMej2AXLwxz52IuWnYL4JLXbgI4q4wHwF6EV3YytIP5rajFOmbQ9NK0NscjbXAn/cYMA==",
   "success": true,
   "projectFilePath": "D:\\vstudio_projects\\ApiLojaoBazar\\Api.LojaoBazar\\Api.LojaoBazar.Application\\Api.LojaoBazar.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

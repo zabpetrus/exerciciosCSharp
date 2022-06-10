@@ -1,0 +1,12 @@
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\bin\Debug\net5.0\Api.LojaoBazar.Infra.Http.deps.json
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\bin\Debug\net5.0\Api.LojaoBazar.Infra.Http.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\bin\Debug\net5.0\Api.LojaoBazar.Infra.Http.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.csproj.AssemblyReference.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.AssemblyInfoInputs.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.AssemblyInfo.cs
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\refint\Api.LojaoBazar.Infra.Http.dll
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\Api.LojaoBazar.Infra.Http.pdb
+D:\vstudio_projects\ApiLojaoBazar\Api.LojaoBazar\Api.LojaoBazar.Infra.Http\obj\Debug\net5.0\ref\Api.LojaoBazar.Infra.Http.dll
