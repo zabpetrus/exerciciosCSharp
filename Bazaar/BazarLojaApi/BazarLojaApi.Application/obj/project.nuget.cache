@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcbTj0Q6CC0UCO1zY6Bj8YSx0Rn1EDD1s+sjGZdrimHKl7w0r3LAToGoLFTxr1wEDwK0TC7wjOX7u8jxIj7c+w==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Bazaar\\BazarLojaApi\\BazarLojaApi.Application\\BazarLojaApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

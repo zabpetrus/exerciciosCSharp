@@ -1,0 +1,12 @@
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\bin\Debug\net5.0\BazarLojaApi.Domain.deps.json
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\bin\Debug\net5.0\BazarLojaApi.Domain.dll
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\bin\Debug\net5.0\ref\BazarLojaApi.Domain.dll
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\bin\Debug\net5.0\BazarLojaApi.Domain.pdb
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.AssemblyInfoInputs.cache
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.AssemblyInfo.cs
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.dll
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\ref\BazarLojaApi.Domain.dll
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.pdb
+D:\vstudio_projects\Bazaar\BazarLojaApi\BazarLojaApi.Domain\obj\Debug\net5.0\BazarLojaApi.Domain.csproj.AssemblyReference.cache
