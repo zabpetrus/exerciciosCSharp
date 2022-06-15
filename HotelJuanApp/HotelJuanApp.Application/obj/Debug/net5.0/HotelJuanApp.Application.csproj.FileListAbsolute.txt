@@ -1,0 +1,12 @@
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\bin\Debug\net5.0\HotelJuanApp.Application.deps.json
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\bin\Debug\net5.0\HotelJuanApp.Application.dll
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\bin\Debug\net5.0\HotelJuanApp.Application.pdb
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.csproj.AssemblyReference.cache
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.AssemblyInfoInputs.cache
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.AssemblyInfo.cs
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.dll
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\refint\HotelJuanApp.Application.dll
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\HotelJuanApp.Application.pdb
+D:\vstudio_projects\HotelJuanApp\HotelJuanApp.Application\obj\Debug\net5.0\ref\HotelJuanApp.Application.dll
