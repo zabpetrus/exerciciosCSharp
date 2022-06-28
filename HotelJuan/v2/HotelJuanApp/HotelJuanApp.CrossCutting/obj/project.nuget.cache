@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kix5YwxyJVtWkPEsaoPj5YvbhqMpoEI7UNfIkFR6sZritvQngDmrNo52FcfqHgc/iuykAH1dVabp75FENc1B9A==",
+  "success": true,
+  "projectFilePath": "E:\\zabpetrus\\exerciciosCSharp\\HotelJuan\\v2\\HotelJuanApp\\HotelJuanApp.CrossCutting\\HotelJuanApp.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
