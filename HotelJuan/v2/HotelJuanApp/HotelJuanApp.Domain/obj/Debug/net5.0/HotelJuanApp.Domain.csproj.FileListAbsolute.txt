@@ -1,11 +1,11 @@
-E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
-E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.AssemblyInfoInputs.cache
-E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.AssemblyInfo.cs
-E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.csproj.CoreCompileInputs.cache
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\bin\Debug\net5.0\HotelJuanApp.Domain.deps.json
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\bin\Debug\net5.0\HotelJuanApp.Domain.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\bin\Debug\net5.0\ref\HotelJuanApp.Domain.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\bin\Debug\net5.0\HotelJuanApp.Domain.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.AssemblyInfoInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.AssemblyInfo.cs
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.csproj.CoreCompileInputs.cache
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\ref\HotelJuanApp.Domain.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Domain\obj\Debug\net5.0\HotelJuanApp.Domain.pdb

@@ -2,7 +2,6 @@ E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Debug\net5.0\HotelJuanApp.Infra.Data.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Debug\net5.0\ref\HotelJuanApp.Infra.Data.dll
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Debug\net5.0\HotelJuanApp.Infra.Data.pdb
-E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Debug\net5.0\HotelJuanApp.Infra.Data.csproj.AssemblyReference.cache
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Debug\net5.0\HotelJuanApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Debug\net5.0\HotelJuanApp.Infra.Data.AssemblyInfoInputs.cache
 E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Debug\net5.0\HotelJuanApp.Infra.Data.AssemblyInfo.cs

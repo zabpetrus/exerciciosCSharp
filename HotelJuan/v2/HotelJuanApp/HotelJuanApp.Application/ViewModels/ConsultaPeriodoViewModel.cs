@@ -17,8 +17,6 @@ namespace HotelJuanApp.Application
             QtePessoas = qtePessoas;
         }
 
-        public ConsultaPeriodoViewModel()
-        {
-        }
+        public ConsultaPeriodoViewModel() {}
     }
 }

@@ -1,5 +1,6 @@
 using HotelJuanApp.Application.AppService;
 using HotelJuanApp.Application.Interfaces;
+using HotelJuanApp.CrossCutting;
 using HotelJuanApp.Domain.Interfaces.Service;
 using HotelJuanApp.Domain.Services;
 using Microsoft.AspNetCore.Builder;
@@ -30,8 +31,10 @@ namespace HotelJuanApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            AutoMapping autoMapping = new AutoMapping();
             DependenceInjectionConf(services, Configuration);
             services.AddControllers();
+            services.AddAutoMapper(typeof(Startup));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelJuanApp", Version = "v1" });
@@ -61,13 +64,10 @@ namespace HotelJuanApp
         }
 
 
-        private static void DependenceInjectionConf( IServiceCollection services, IConfiguration configuration )
+        private  void DependenceInjectionConf( IServiceCollection services, IConfiguration configuration )
         {
-            if(services == null) // Para evitar o erro de agregação
-            {
-                services.AddScoped(typeof(IReservaService), typeof(ReservaService));
-                services.AddScoped(typeof(IReservaAppService), typeof(ReservaAppService));
-            }         
+             services.AddScoped(typeof(IReservaService), typeof(ReservaService));
+             services.AddScoped(typeof(IReservaAppService), typeof(ReservaAppService));           
 
         }
     }

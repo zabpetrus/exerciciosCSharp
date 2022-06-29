@@ -17,41 +17,38 @@ namespace HotelJuanApp.Application.AppService
 
         private IReservaService _reservaService;
 
-        private IMapper _mapper;
+      //  private IReservaAppService _reservaAppService;
 
-        public ReservaAppService()
-        {
-        }
+        private readonly IMapper _mapper;
 
-        public ReservaAppService( IReservaService reservaService, IMapper mapper )
-        {
-            _reservaService = reservaService;
+        public ReservaAppService(){ }
+
+    
+        public ReservaAppService( IMapper mapper, IReservaService reservaService )
+        {             
             _mapper = mapper;
-        }
+            _reservaService = reservaService;
+        } 
 
         public List<QuartoViewModel> GetQuartosDisponiveis(ConsultaPeriodoViewModel consulta)
         {
-            /* List<QuartoViewModel> lstQuartos = new List<QuartoViewModel>();
-             QuartoViewModel qt = new QuartoViewModel(304, 2, "Standard", 202.66);
-             lstQuartos.Add(qt);
-             qt = new QuartoViewModel(369, 3, "Standard", 506.25);
-             lstQuartos.Add(qt);
-             return lstQuartos;*/
+            ReservaService reservaService = new ReservaService();
+            List<Quarto> quartos = reservaService.GetQuartosDisponiveis(consulta.Checkin, consulta.Checkout, consulta.QtePessoas);
 
-
-            //Quarto === QuartoViewModel
-            var configuration = new MapperConfiguration(cfg => cfg.CreateMap<Quarto, QuartoViewModel>());
-
-     
             //Input
-            List<Quarto> quartos = _reservaService.GetQuartosDisponiveis(consulta.Checkin, consulta.Checkout, consulta.QtePessoas);
+            //List<Quarto> quartos = _reservaService.GetQuartosDisponiveis(consulta.Checkin, consulta.Checkout, consulta.QtePessoas);
             if(quartos == null) { throw new Exception("Lista de Quartos Vazia");  }
 
             //output
-            List<QuartoViewModel> quartosvm = _mapper.Map<List<Quarto>, List<QuartoViewModel>>(quartos); //Source -> Quarto .: Destino  -> QuartoViewModel
-            if(quartosvm == null) { throw new Exception("Lista de QuartoViewModel Vazia"); }
+            //Not Working!!!!
+            // List<QuartoViewModel> quartosvm = _mapper.Map<List<Quarto>, List<QuartoViewModel>>(quartos); //Source -> Quarto .: Destino  -> QuartoViewModel
+
+            List<QuartoViewModel> quartosvm = new List<QuartoViewModel>();
+            if (quartosvm == null) { throw new Exception("Lista de QuartoViewModel Vazia"); }
+
 
             return quartosvm;
+
         }
     }
 }

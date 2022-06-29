@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 
 namespace HotelJuanApp.Domain.Entity
 {
-    public class Quarto : Entities//, IAppServiceBase<Quarto>
-    {
-        public Quarto()
-        {
-        }
+    public class Quarto :  EntityDom, IAppServiceBase<Quarto>
+    {       
 
         public int Numero { get; set; }
 
@@ -29,6 +26,31 @@ namespace HotelJuanApp.Domain.Entity
             ValorDiaria = valorDiaria;
         }                  
         
+        public Quarto(){}
 
+        public void Add(Quarto obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Quarto GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Quarto> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Quarto obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Remove(Quarto obj)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

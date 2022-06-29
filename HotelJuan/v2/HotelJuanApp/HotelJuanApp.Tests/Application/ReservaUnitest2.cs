@@ -20,9 +20,7 @@ namespace HotelJuanApp.Tests.Application
             ConsultaPeriodoViewModel consulta = new ConsultaPeriodoViewModel(
                 DateTime.Now.AddDays(2),
                 DateTime.Now.AddDays(6),
-                2);
-
-            
+                2);            
 
             List<Quarto> lstQuartos = new List<Quarto>();
 
@@ -32,9 +30,12 @@ namespace HotelJuanApp.Tests.Application
             quarto = new Quarto(369, 2, "Standard", 698.56);
             lstQuartos.Add(quarto);
 
-
             Mock<IReservaService> mock = new Mock<IReservaService>();
             mock.Setup(m => m.GetQuartosDisponiveis(consulta.Checkin, consulta.Checkout, consulta.QtePessoas)).Returns(lstQuartos);
+
+            
+
+           
 
            
         }

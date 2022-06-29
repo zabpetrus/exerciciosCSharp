@@ -1,6 +1,8 @@
-﻿using HotelJuanApp.Application;
+﻿using AutoMapper;
+using HotelJuanApp.Application;
 using HotelJuanApp.Application.AppService;
 using HotelJuanApp.Application.ViewModels;
+using HotelJuanApp.Domain.Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,11 +23,9 @@ namespace HotelJuanApp.Tests.Application
              2);
 
             ReservaAppService reservaApp = new ReservaAppService();
-            List<QuartoViewModel> x = reservaApp.GetQuartosDisponiveis(consulta);
+            var x = reservaApp.GetQuartosDisponiveis(consulta);
 
-
-
-            Assert.True(x.Count > 0);
+            Assert.True(x.Count >= 0);
 
         }
     }

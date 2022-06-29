@@ -1,0 +1,15 @@
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\HotelJuanApp.Application.deps.json
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\HotelJuanApp.Application.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\ref\HotelJuanApp.Application.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\HotelJuanApp.Application.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\HotelJuanApp.Domain.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\bin\Release\net5.0\HotelJuanApp.Domain.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.csproj.AssemblyReference.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.AssemblyInfoInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.AssemblyInfo.cs
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.csproj.CoreCompileInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.csproj.CopyComplete
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\ref\HotelJuanApp.Application.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Application\obj\Release\net5.0\HotelJuanApp.Application.pdb
