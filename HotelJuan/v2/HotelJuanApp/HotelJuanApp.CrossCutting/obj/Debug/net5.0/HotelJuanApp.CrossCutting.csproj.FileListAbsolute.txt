@@ -1,0 +1,17 @@
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.CrossCutting.deps.json
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.CrossCutting.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\ref\HotelJuanApp.CrossCutting.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.CrossCutting.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.Application.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.Domain.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.Application.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\bin\Debug\net5.0\HotelJuanApp.Domain.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.csproj.AssemblyReference.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.AssemblyInfoInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.AssemblyInfo.cs
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.csproj.CoreCompileInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.csproj.CopyComplete
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\ref\HotelJuanApp.CrossCutting.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.CrossCutting\obj\Debug\net5.0\HotelJuanApp.CrossCutting.pdb

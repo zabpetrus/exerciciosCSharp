@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGEobJM5Q+J/cSVzI5Dcje/VfHJMVz8StVK0U4AVFp+6P2yabDCZc8RqQZof/CDEtyohJxVAp07iCx+dgF0Iag==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio\\ProjetoCalculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Izabel Santos\\.nuget\\packages\\junitxml.testlogger\\2.1.15\\junitxml.testlogger.2.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

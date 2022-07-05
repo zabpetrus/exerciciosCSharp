@@ -1,0 +1,11 @@
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Release\net5.0\HotelJuanApp.Infra.Data.deps.json
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Release\net5.0\HotelJuanApp.Infra.Data.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Release\net5.0\ref\HotelJuanApp.Infra.Data.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\bin\Release\net5.0\HotelJuanApp.Infra.Data.pdb
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.AssemblyInfoInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.AssemblyInfo.cs
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.csproj.CoreCompileInputs.cache
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\ref\HotelJuanApp.Infra.Data.dll
+E:\zabpetrus\exerciciosCSharp\HotelJuan\v2\HotelJuanApp\HotelJuanApp.Infra.Data\obj\Release\net5.0\HotelJuanApp.Infra.Data.pdb
