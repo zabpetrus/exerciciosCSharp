@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polinomios", "Polinomios\Polinomios.csproj", "{04BB124B-A1CB-441E-9182-6ED33325D24E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{82B8449C-2760-43DA-94ED-BA19E00A6BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BB124B-A1CB-441E-9182-6ED33325D24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BB124B-A1CB-441E-9182-6ED33325D24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BB124B-A1CB-441E-9182-6ED33325D24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BB124B-A1CB-441E-9182-6ED33325D24E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B8449C-2760-43DA-94ED-BA19E00A6BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B8449C-2760-43DA-94ED-BA19E00A6BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B8449C-2760-43DA-94ED-BA19E00A6BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B8449C-2760-43DA-94ED-BA19E00A6BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324AFCC8-425C-45E7-A38F-3BA4CF992FA3}
+	EndGlobalSection
+EndGlobal
