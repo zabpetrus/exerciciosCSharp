@@ -10,7 +10,8 @@
         "dependencies": {
           "AutoMapper": "11.0.1",
           "Swashbuckle.AspNetCore": "5.6.3",
-          "ViacaoCalango.Application": "1.0.0"
+          "ViacaoCalango.Application": "1.0.0",
+          "ViacaoCalango.CrossCutting": "1.0.0"
         },
         "runtime": {
           "ViacaoCalango.API.dll": {}
@@ -82,6 +83,15 @@
         },
         "runtime": {
           "ViacaoCalango.Application.dll": {}
+        }
+      },
+      "ViacaoCalango.CrossCutting/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "ViacaoCalango.Application": "1.0.0"
+        },
+        "runtime": {
+          "ViacaoCalango.CrossCutting.dll": {}
         }
       },
       "ViacaoCalango.Domain/1.0.0": {
@@ -157,6 +167,11 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
     },
     "ViacaoCalango.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViacaoCalango.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

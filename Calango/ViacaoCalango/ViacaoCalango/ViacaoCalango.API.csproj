@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ViacaoCalango.Application\ViacaoCalango.Application.csproj" />
+    <ProjectReference Include="..\ViacaoCalango.CrossCutting\ViacaoCalango.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>

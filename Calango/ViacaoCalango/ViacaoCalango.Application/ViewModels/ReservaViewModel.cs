@@ -24,7 +24,7 @@ namespace ViacaoCalango.Application.ViewModels
 
         public DateTime DataIda { get; set; } //Data da ida
 
-        public DateTime? DataVolta { get; set; } //Data da volta que pode ser nulo
+        public DateTime DataVolta { get; set; } //Data da volta que pode ser nulo
 
         public DateTime HoraEmbarque { get; set; }
 
@@ -93,5 +93,7 @@ namespace ViacaoCalango.Application.ViewModels
             HoraEmbarque = horaEmbarque;
             Valor = valor;
         }
+
+
     }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIFjgbVxi1JqTv42ZyBJnrDuKeVGdCu6eg1EbyrwRKGwQktuB45cN1riOUOpBamzfbIN1e/v3EygSrYPaweZPw==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Poltergeist\\2022\\ViacaoCalango\\ViacaoCalango.Infra.CrossCutting\\ViacaoCalango.Infra.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.CrossCutting.deps.json
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.CrossCutting.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.CrossCutting.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.Application.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.Application.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\bin\Debug\net6.0\ViacaoCalango.Domain.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.csproj.AssemblyReference.cache
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.AssemblyInfoInputs.cache
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.AssemblyInfo.cs
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.csproj.CopyComplete
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\refint\ViacaoCalango.CrossCutting.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ViacaoCalango.CrossCutting.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango.CrossCutting\obj\Debug\net6.0\ref\ViacaoCalango.CrossCutting.dll

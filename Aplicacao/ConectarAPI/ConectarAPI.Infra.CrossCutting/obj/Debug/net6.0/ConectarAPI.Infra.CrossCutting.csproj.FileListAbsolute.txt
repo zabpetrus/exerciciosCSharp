@@ -1,0 +1,17 @@
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Infra.CrossCutting.deps.json
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Infra.CrossCutting.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Infra.CrossCutting.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Application.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Model.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Application.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\bin\Debug\net6.0\ConectarAPI.Model.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.csproj.AssemblyReference.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.AssemblyInfo.cs
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.csproj.CopyComplete
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\refint\ConectarAPI.Infra.CrossCutting.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ConectarAPI.Infra.CrossCutting.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Infra.CrossCutting\obj\Debug\net6.0\ref\ConectarAPI.Infra.CrossCutting.dll

@@ -1,0 +1,12 @@
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\bin\Debug\net5.0\ViacaoCalango.Domain.deps.json
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\bin\Debug\net5.0\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\bin\Debug\net5.0\ref\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\bin\Debug\net5.0\ViacaoCalango.Domain.pdb
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.csproj.AssemblyReference.cache
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.AssemblyInfoInputs.cache
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.AssemblyInfo.cs
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ref\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Poltergeist\2019\ViacaoCalango\ViacaoCalango.Domain\obj\Debug\net5.0\ViacaoCalango.Domain.pdb

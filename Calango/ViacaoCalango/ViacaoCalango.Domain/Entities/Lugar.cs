@@ -22,5 +22,23 @@ namespace ViacaoCalango.Domain.Entities
             OnibusId = onibusId;
             NumeroReserva = numeroReserva;
         }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Lugar lugar &&
+                   Numero == lugar.Numero &&
+                   OnibusId == lugar.OnibusId &&
+                   NumeroReserva == lugar.NumeroReserva;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Numero, OnibusId, NumeroReserva);
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

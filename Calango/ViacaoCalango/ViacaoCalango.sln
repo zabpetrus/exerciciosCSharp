@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViacaoCalango.Infra.Data", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViacaoCalango.Tests", "ViacaoCalango.Tests\ViacaoCalango.Tests.csproj", "{F85E3887-536E-472C-9B37-447080325A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Tests.Console", "ViacaoCalango.Tests.Console\ViacaoCalango.Tests.Console.csproj", "{023F0F89-475F-462A-BDB9-6A1E1F2B8A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViacaoCalango.Tests.Console", "ViacaoCalango.Tests.Console\ViacaoCalango.Tests.Console.csproj", "{023F0F89-475F-462A-BDB9-6A1E1F2B8A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.CrossCutting", "ViacaoCalango.CrossCutting\ViacaoCalango.CrossCutting.csproj", "{24CD745D-D565-4C75-BA76-B378D8978837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{023F0F89-475F-462A-BDB9-6A1E1F2B8A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{023F0F89-475F-462A-BDB9-6A1E1F2B8A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{023F0F89-475F-462A-BDB9-6A1E1F2B8A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CD745D-D565-4C75-BA76-B378D8978837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CD745D-D565-4C75-BA76-B378D8978837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CD745D-D565-4C75-BA76-B378D8978837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CD745D-D565-4C75-BA76-B378D8978837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

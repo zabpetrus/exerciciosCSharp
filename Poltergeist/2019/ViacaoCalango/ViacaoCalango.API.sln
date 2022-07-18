@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango", "ViacaoCalango\ViacaoCalango.csproj", "{2B30B535-0B9F-4A21-9442-11BEB0480D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Application", "ViacaoCalango.Application\ViacaoCalango.Application.csproj", "{87F01C24-3116-44E6-97AB-C1E8A5E2C54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Domain", "ViacaoCalango.Domain\ViacaoCalango.Domain.csproj", "{6BD02B3A-C1CB-4EFF-8C10-2F60CA575473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Infra.CrossCutting", "ViacaoCalango.Infra.CrossCutting\ViacaoCalango.Infra.CrossCutting.csproj", "{12682224-7C9D-469F-9685-9AB4344A616B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Tests", "ViacaoCalango.Tests\ViacaoCalango.Tests.csproj", "{CDC7C378-A867-4E41-974F-B141EDDF9852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViacaoCalango.Infra.Data", "ViacaoCalango.Infra.Data\ViacaoCalango.Infra.Data.csproj", "{8012FC37-6E35-40AD-8061-ED412FD3DC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B30B535-0B9F-4A21-9442-11BEB0480D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B30B535-0B9F-4A21-9442-11BEB0480D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B30B535-0B9F-4A21-9442-11BEB0480D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B30B535-0B9F-4A21-9442-11BEB0480D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F01C24-3116-44E6-97AB-C1E8A5E2C54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F01C24-3116-44E6-97AB-C1E8A5E2C54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F01C24-3116-44E6-97AB-C1E8A5E2C54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F01C24-3116-44E6-97AB-C1E8A5E2C54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD02B3A-C1CB-4EFF-8C10-2F60CA575473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD02B3A-C1CB-4EFF-8C10-2F60CA575473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD02B3A-C1CB-4EFF-8C10-2F60CA575473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD02B3A-C1CB-4EFF-8C10-2F60CA575473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12682224-7C9D-469F-9685-9AB4344A616B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12682224-7C9D-469F-9685-9AB4344A616B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12682224-7C9D-469F-9685-9AB4344A616B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12682224-7C9D-469F-9685-9AB4344A616B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC7C378-A867-4E41-974F-B141EDDF9852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC7C378-A867-4E41-974F-B141EDDF9852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC7C378-A867-4E41-974F-B141EDDF9852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC7C378-A867-4E41-974F-B141EDDF9852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8012FC37-6E35-40AD-8061-ED412FD3DC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8012FC37-6E35-40AD-8061-ED412FD3DC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8012FC37-6E35-40AD-8061-ED412FD3DC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8012FC37-6E35-40AD-8061-ED412FD3DC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9896588B-4C66-48A9-91E6-3EC17C5E6282}
+	EndGlobalSection
+EndGlobal

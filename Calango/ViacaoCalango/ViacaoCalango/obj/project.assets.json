@@ -111,6 +111,20 @@
           "bin/placeholder/ViacaoCalango.Application.dll": {}
         }
       },
+      "ViacaoCalango.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "ViacaoCalango.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ViacaoCalango.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViacaoCalango.CrossCutting.dll": {}
+        }
+      },
       "ViacaoCalango.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -323,6 +337,11 @@
       "path": "../ViacaoCalango.Application/ViacaoCalango.Application.csproj",
       "msbuildProject": "../ViacaoCalango.Application/ViacaoCalango.Application.csproj"
     },
+    "ViacaoCalango.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../ViacaoCalango.CrossCutting/ViacaoCalango.CrossCutting.csproj",
+      "msbuildProject": "../ViacaoCalango.CrossCutting/ViacaoCalango.CrossCutting.csproj"
+    },
     "ViacaoCalango.Domain/1.0.0": {
       "type": "project",
       "path": "../ViacaoCalango.Domain/ViacaoCalango.Domain.csproj",
@@ -333,7 +352,8 @@
     "net6.0": [
       "AutoMapper >= 11.0.1",
       "Swashbuckle.AspNetCore >= 5.6.3",
-      "ViacaoCalango.Application >= 1.0.0"
+      "ViacaoCalango.Application >= 1.0.0",
+      "ViacaoCalango.CrossCutting >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -370,6 +390,9 @@
           "projectReferences": {
             "D:\\vstudio_projects\\Calango\\ViacaoCalango\\ViacaoCalango.Application\\ViacaoCalango.Application.csproj": {
               "projectPath": "D:\\vstudio_projects\\Calango\\ViacaoCalango\\ViacaoCalango.Application\\ViacaoCalango.Application.csproj"
+            },
+            "D:\\vstudio_projects\\Calango\\ViacaoCalango\\ViacaoCalango.CrossCutting\\ViacaoCalango.CrossCutting.csproj": {
+              "projectPath": "D:\\vstudio_projects\\Calango\\ViacaoCalango\\ViacaoCalango.CrossCutting\\ViacaoCalango.CrossCutting.csproj"
             }
           }
         }

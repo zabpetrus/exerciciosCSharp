@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/KhHuh1MNQIYsqES0v/M+BlZrMTEBWGL9WtFLETGU4sZyvPb8hBAD3jVy2brkVXp7vTKKbW8ldb/K20IKBCbA==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Aplicacao\\ConectarAPI\\ConectarAPI.Infra.CrossCutting\\ConectarAPI.Infra.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

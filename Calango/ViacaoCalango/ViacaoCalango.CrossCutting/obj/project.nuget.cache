@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tptl+lbRAZR/djl1/p7wBmKMYtZ2Nnoz3/W0mLlTbmZqPFGQb2i/VS3qIrNJJ0a0zZIJfPRJ8V1c6e/9cmk5Xw==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Calango\\ViacaoCalango\\ViacaoCalango.CrossCutting\\ViacaoCalango.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

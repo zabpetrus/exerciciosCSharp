@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KIqxpY2oL5WGzicZmk+JN6JZyOy0itJfPSwmlfxqCzn6Rb0od2tFm43KGh90IUgj3Tx/HC30Z/CnCUQoWsOrA==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Poltergeist\\2019\\ViacaoCalango\\ViacaoCalango.Domain\\ViacaoCalango.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

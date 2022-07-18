@@ -5,10 +5,17 @@ D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoC
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.API.runtimeconfig.json
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.API.dll
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.API.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\AutoMapper.dll
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Application.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.CrossCutting.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Domain.dll
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Application.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.CrossCutting.pdb
+D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Domain.pdb
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ViacaoCalango.API.csproj.AssemblyReference.cache
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ViacaoCalango.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ViacaoCalango.API.AssemblyInfoInputs.cache
@@ -25,8 +32,3 @@ D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\refint\
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ViacaoCalango.API.pdb
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ViacaoCalango.API.genruntimeconfig.cache
 D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\obj\Debug\net6.0\ref\ViacaoCalango.API.dll
-D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Application.dll
-D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Application.pdb
-D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Domain.dll
-D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\ViacaoCalango.Domain.pdb
-D:\vstudio_projects\Calango\ViacaoCalango\ViacaoCalango\bin\Debug\net6.0\AutoMapper.dll

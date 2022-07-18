@@ -1,0 +1,15 @@
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\bin\Debug\net6.0\ConectarAPI.Application.deps.json
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\bin\Debug\net6.0\ConectarAPI.Application.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\bin\Debug\net6.0\ConectarAPI.Application.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\bin\Debug\net6.0\ConectarAPI.Model.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\bin\Debug\net6.0\ConectarAPI.Model.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.csproj.AssemblyReference.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.AssemblyInfoInputs.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.AssemblyInfo.cs
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.csproj.CoreCompileInputs.cache
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.csproj.CopyComplete
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\refint\ConectarAPI.Application.dll
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ConectarAPI.Application.pdb
+D:\vstudio_projects\Aplicacao\ConectarAPI\ConectarAPI.Application\obj\Debug\net6.0\ref\ConectarAPI.Application.dll

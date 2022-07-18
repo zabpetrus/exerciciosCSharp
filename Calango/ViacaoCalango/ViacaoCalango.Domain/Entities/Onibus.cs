@@ -15,5 +15,17 @@ namespace ViacaoCalango.Domain.Entities
         public int NumLugares { get; set; }
 
         public int LugaresOcupados { get; set; } = 0;
+
+        public Onibus(int id, int rotaId, int numLugares, int lugaresOcupados)
+        {
+            Id = id;
+            RotaId = rotaId;
+            NumLugares = numLugares;
+            LugaresOcupados = lugaresOcupados;
+        }
+
+        public Onibus()
+        {
+        }
     }
 }

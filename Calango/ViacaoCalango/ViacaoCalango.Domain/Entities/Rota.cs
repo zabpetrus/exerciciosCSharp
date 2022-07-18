@@ -18,5 +18,37 @@ namespace ViacaoCalango.Domain.Entities
 
         public float Valor { get; set; }
 
+        public Rota(int id, string nome, string origem, string destino, float valor)
+        {
+            Id = id;
+            Nome = nome;
+            Origem = origem;
+            Destino = destino;
+            Valor = valor;
+        }
+
+        public Rota()
+        {
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Rota rota &&
+                   Id == rota.Id &&
+                   Nome == rota.Nome &&
+                   Origem == rota.Origem &&
+                   Destino == rota.Destino &&
+                   Valor == rota.Valor;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id, Nome, Origem, Destino, Valor);
+        }
+
+        public override string ToString()
+        {
+            return this.Id + this.Nome + this.Origem + this.Destino;    
+        }
     }
 }

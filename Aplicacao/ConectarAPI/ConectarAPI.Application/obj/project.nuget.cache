@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFCOa1u2M5cbKle+e9QHW4+M8fccVm2VZAeIz/J4p3Wayki81JMwljVGtHcuc/qDfWtJGqqMGFZg4i9Z9JIpvQ==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Aplicacao\\ConectarAPI\\ConectarAPI.Application\\ConectarAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

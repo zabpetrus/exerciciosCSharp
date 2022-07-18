@@ -1,3 +1,4 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -11,6 +12,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ViacaoCalango.Application.ViewModels;
+using ViacaoCalango.CrossCutting;
+using ViacaoCalango.Domain.Entities;
 
 namespace ViacaoCalango
 {
@@ -22,6 +26,7 @@ namespace ViacaoCalango
         }
 
         public IConfiguration Configuration { get; }
+        private static IMapper _mapper { get; set; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -32,6 +37,18 @@ namespace ViacaoCalango
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ViacaoCalango", Version = "v1" });
             });
+
+            if(_mapper == null)
+            {
+                var mappingConfig = new MapperConfiguration(cfg => {
+                    cfg.AddProfile(new SourceMappingProfile());
+                });
+
+                IMapper mapper = mappingConfig.CreateMapper();
+                services.AddSingleton(mapper);
+            }
+
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

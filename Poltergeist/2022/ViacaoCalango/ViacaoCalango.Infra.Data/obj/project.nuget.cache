@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkQRvDJHA7mvS4KX3WfhZbR4B1cKnYkwQoKpnRmgXn9i2OUQTo8IVPMDN4yHhgk7vbiH0IxWQRhPxQqbpn0xlg==",
+  "success": true,
+  "projectFilePath": "D:\\vstudio_projects\\Poltergeist\\2022\\ViacaoCalango\\ViacaoCalango.Infra.Data\\ViacaoCalango.Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsant\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zsant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

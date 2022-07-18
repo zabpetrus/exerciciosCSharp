@@ -12,5 +12,8 @@ namespace ViacaoCalango.Domain.Entities
 
         public bool Status { get; set; } //Pago ou não
 
+
+
+
     }
 }

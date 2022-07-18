@@ -29,5 +29,24 @@ namespace ViacaoCalango.Domain.Entities
         public Passageiro()
         {
         }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Passageiro passageiro &&
+                   Id == passageiro.Id &&
+                   Nome == passageiro.Nome &&
+                   CPF == passageiro.CPF &&
+                   DataNascimento == passageiro.DataNascimento;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id, Nome, CPF, DataNascimento);
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

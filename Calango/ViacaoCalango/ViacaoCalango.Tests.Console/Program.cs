@@ -132,6 +132,19 @@ foreach(string pass in k)
     Console.WriteLine( pass );
 }
 
+//Comprando no terminal
+
+//Rota -> Rio / São Paulo
+//Trecho 0 -> Terminal Novo Rio
+//Onibus 65589 - Partida 12:00 - Plataforma F1
+//Assento 44
+//Pegou no terminal e vai soltar no Trecho 4
+//Lugaresonibus -1
+
+List<Partida> listaPartidas = new List<Partida>();
+listaPartidas.Add(new Partida(1, "Onibus", "Rio/São-Paulo", "Terminal G1", "12/06/2022", "15:00"));
+
+
 
 
 
